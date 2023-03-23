@@ -1,16 +1,14 @@
 import time
 import random
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from PageObjectModelOne.Pages.search_page import SearchPageProp
 
 
 def test_sample():
-    serv_obj = Service("C:/Users/sirwi/Downloads/chromedriver_win32/chromedriver.exe")
     options = webdriver.ChromeOptions()
     options.add_experimental_option('detach', True)
-    driver = webdriver.Chrome(service=serv_obj, options=options)
+    driver = webdriver.Chrome(options=options)
     driver.implicitly_wait(10)
 
     driver.get("https://itera-qa.azurewebsites.net/UserRegister/NewUser")
