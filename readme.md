@@ -1,4 +1,5 @@
 # Selenium Project for Sign-up Page
+![screenshot#3](https://user-images.githubusercontent.com/45835546/227117616-98e0584c-bde3-4812-9a99-25a60bf85dac.png)
 
 **In this project I'm testing the sign-up, login, creating and searching for; as well as editing and deleting the customer.**
 
