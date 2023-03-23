@@ -16,5 +16,3 @@ These are the actions taken:
 7) Delete new customer
 8) Recheck customer search to confirm deleted
 9) Close driver
-
-Service, Select and ActionChains are imported and used
