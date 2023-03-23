@@ -1,6 +1,6 @@
 # Selenium Project for Sign-up Page
 
-**In this project I'm testing the sign-up, login, creating and searching for, as well as editing and deleting the customer.**
+**In this project I'm testing the sign-up, login, creating and searching for; as well as editing and deleting the customer.**
 
 Requirements: Latest versions of Python, PyCharm and Selenium.
 
