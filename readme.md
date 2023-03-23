@@ -3,7 +3,7 @@
 
 **In this project I'm testing the sign-up, login, creating and searching for; as well as editing and deleting the customer.**
 
-Requirements: Latest versions of Python, PyCharm and Selenium. /
+Requirements: Latest versions of Python, PyCharm and Selenium. <br>
 Screenshots and print statements are made to confirm tests passing.
 
 These are the actions taken:
